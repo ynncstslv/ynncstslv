@@ -19,7 +19,7 @@ And if you have any questions, contact me through my social media links bellow!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynncstslv&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/ynncstslv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ynncstslv/ynncstslv/blob/output/github-contribution-grid-snake.svg)
   
 ## 🔧 Technologies & Tools
 
