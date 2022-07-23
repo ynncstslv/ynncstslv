@@ -11,16 +11,6 @@ And if you have any questions, contact me through my social media links bellow!
   <a href="https://www.codepen.io/ynncstslv" target="_blank"><img height="27" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ynncstslv">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynncstslv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-![Snake animation](https://github.com/ynncstslv/ynncstslv/blob/output/github-contribution-grid-snake.svg)
-  
 ## 🔧 Technologies & Tools
 
 <div style="display: inline_block"><br>
@@ -35,3 +25,13 @@ And if you have any questions, contact me through my social media links bellow!
   <img align="center" alt="Yann-VS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Yann-PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 </div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ynncstslv">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynncstslv&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/ynncstslv/ynncstslv/blob/output/github-contribution-grid-snake.svg)
