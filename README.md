@@ -2,16 +2,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 My name is Yann Costa e Silva
 ==========================================================================================================================================
 
-Front-End Developer | React
----------------------------
+## Front-End Developer | React
 
 As a computer science undergraduate student, I specialize in front-end development, creating visually stunning and user-friendly web experiences that leverage my expertise in HTML, CSS, JavaScript, and React. I am comfortable working with both responsive web design and mobile-first design principles, and I am always looking for new challenges to expand my knowledge and skills.<br><br>
 With a background in graphic design and years of experience in sound engineering, I have developed a keen eye for design and a deep understanding of how technology can be used to enhance the user experience. I bring a unique combination of technical skills and creative problem-solving to my work. In sound engineering, I honed my skills in audio production and post-production, as well as project management, teamwork, and client communication.In design, I gained experience in branding, typography, and visual design, all of which have been valuable assets in my transition to front-end development.<br><br>
 If you're looking for a creative and versatile front-end developer who can bring a unique perspective to your projects, please feel free to connect with me. I am excited to continue growing my skills and contributing to innovative and impactful projects in the industry.
 
-* 🌍  I'm based in São Paulo, Brazil
-* 🖥️  See my portfolio at [ynncstslv.com](http://ynncstslv.com/)
-* ✉️  You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
+- 🌍 I'm based in São Paulo, Brazil
+- 🖥️ See my portfolio at [ynncstslv.com](http://ynncstslv.com/)
+- ✉️ You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
 
 ### Skills
 
@@ -33,11 +32,11 @@ If you're looking for a creative and versatile front-end developer who can bring
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.twitter.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="http://www.instagram.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.twitter.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ynncstslv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ynncstslv&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/ynncstslv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynncstslv&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="140px" height="60px"/></a>
+<a href="http://www.github.com/ynncstslv"><img src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&show_icons=true" alt="ynncstslv's GitHub stats" width="450px" /></a>&nbsp;&nbsp;<a href="http://www.github.com/ynncstslv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ynncstslv&stroke=ffffff&background=171717&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>&nbsp;&nbsp;<a href="https://github.com/ynncstslv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ynncstslv&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="195px"/></a>
 
 <a href="http://www.github.com/ynncstslv"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ynncstslv&bg_color=171717&color=ffffff&line=ec4899&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
