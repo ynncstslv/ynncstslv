@@ -1,9 +1,9 @@
 # Hello!
 
 - 🌍 I'm based in São Paulo, Brazil
-- 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/)
+<!-- - 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/) -->
 - ✉️ You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
-- 🚀 Currently working on [Versa - An AI SaaS Application](http://github.com/ynncstslv/versa/)
+- 🚀 Currently working on [Divera](http://github.com/vrtttx/divera/)
 - 🧠 I'm learning Rust
 - 🤝 Open to collaborating on anything!
 - ⚡ I play a bunch of instruments and love the game Magic: The Gathering
