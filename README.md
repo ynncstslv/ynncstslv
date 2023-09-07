@@ -114,6 +114,6 @@ If you’re seeking an inventive developer with a fresh perspective for your pro
 
 <a href="http://www.github.com/ynncstslv"><img src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ynncstslv's GitHub stats" /></a>
 
-## Top Repositories
+<!-- ## Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/ynncstslv/chattr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ynncstslv&repo=chattr&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ynncstslv/devjobs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ynncstslv&repo=devjobs&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ynncstslv/chattr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ynncstslv&repo=chattr&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ynncstslv/devjobs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ynncstslv&repo=devjobs&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
