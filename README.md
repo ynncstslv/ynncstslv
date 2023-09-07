@@ -10,13 +10,13 @@
 
 ## About Me
 
-I'm a skilled Computer Science undergraduate, specializing in Full-Stack Software Development with a focus on web technologies. My passion lies in crafting user-friendly web experiences using a stack of tools and languages like JavaScript, TypeScript, React, Svelte, and Next. Additionally, I enjoy exploring programming languages such as C, Go, and Python to bring versatility and dynamism to my continuous growth as a developer and my ideas.
+Skilled Computer Science undergraduate specializing in Full-Stack Web Development with a strong focus on creating user-centric experiences. Proficiently utilize tools like TypeScript, React, Next.js, and Go to build innovative solutions.
 
-With a background in Graphic Design and extensive experience in Sound Engineering, I bring a unique fusion of technical and creative habilities. I use technology to optimize user experiences, and apply skills sharpened by my previous experiences such as project management, teamwork, and effective client communication - skills that seamlessly transition to my development endeavors.
+Combining my Graphic Design background with extensive Sound Engineering experience, I bring a distinctive blend of technical and creative skills to my development projects. My passion for versatility drives me to actively explore diverse technologies and languages, fostering continuous growth in my developer journey. By leveraging technology, I enhance user experiences and apply well-honed project management, teamwork, and client communication skills to my development initiatives.
 
-Currently, I am expanding my horizons, diving deep into the realm of Rust, as I relentlessly seek new challenges and opportunities for growth.
+Currently, I’m immersing myself in the world of Rust, embracing new challenges as I actively seek to expand my horizons.
 
-If you're seeking an innovative developer with a fresh perspective for your projects, look no further. Connect with me, and together, we will forge impactful ventures within the industry.
+If you’re seeking an inventive developer with a fresh perspective for your projects, look no further. Let’s connect and collaboratively forge impactful ventures within the industry. I look forward to connecting and discovering how I can actively drive your projects forward!
 
 ## Socials
 
