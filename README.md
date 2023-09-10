@@ -4,7 +4,6 @@
 - 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/)
 - ✉️ You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
 - 🚀 Currently working on [GoHire](http://github.com/vrtttx/gohire/)
-- 🧠 I'm learning Rust
 - 🤝 Open to collaborating on anything!
 - ⚡ I play a bunch of instruments and love the game Magic: The Gathering
 
@@ -38,14 +37,25 @@ If you're seeking an inventive software engineer with a fresh perspective for yo
 #### Core
 
 <p align="left">
-<!-- c -->
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" /></a>
-<!-- js -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" /></a>
+<!-- react -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" /></a>
+<!-- next -->
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" /></a>
 <!-- ts -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" /></a>
 <!-- go -->
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" /></a>
+<!-- tailwind -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" /></a>
+</p>
+
+#### Other Languages
+
+<p align="left">
+<!-- c -->
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" /></a>
+<!-- js -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" /></a>
 <!-- python -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" /></a>
 <!-- rust -->
@@ -55,12 +65,8 @@ If you're seeking an inventive software engineer with a fresh perspective for yo
 #### Frontend
 
 <p align="left">
-<!-- react -->
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" /></a>
 <!-- svelte -->
 <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" width="36" /></a>
-<!-- next -->
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" /></a>
 <!-- vite -->
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" /></a></a>
 <!-- jquery -->
@@ -69,8 +75,6 @@ If you're seeking an inventive software engineer with a fresh perspective for yo
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" /></a>
 <!-- css -->
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" /></a>
-<!-- tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" /></a>
 </p>
 
 #### Backend & Database
@@ -82,11 +86,13 @@ If you're seeking an inventive software engineer with a fresh perspective for yo
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" /></a>
 <!-- mysql -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" /></a>
+<!-- sqlite -->
+<a href="https://sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="36" /></a>
 <!-- postgressql -->
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" /></a>
 </p>
 
-#### Other
+#### Control
 
 <p align="left">
 <!-- git -->
