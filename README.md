@@ -1,22 +1,20 @@
 # Hello!
 
 - 🌍 I'm based in São Paulo, Brazil
-<!-- - 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/) -->
+- 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/)
 - ✉️ You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
-- 🚀 Currently working on [Divera](http://github.com/vrtttx/divera/)
+- 🚀 Currently working on [GoHire](http://github.com/vrtttx/gohire/)
 - 🧠 I'm learning Rust
 - 🤝 Open to collaborating on anything!
 - ⚡ I play a bunch of instruments and love the game Magic: The Gathering
 
 ## About Me
 
-Skilled Computer Science undergraduate specializing in Full-Stack Web Development with a strong focus on creating user-centric experiences. Proficiently utilize tools like TypeScript, React, Next.js, and Go to build innovative solutions.
+A skilled Computer Science undergraduate specializing in Full-Stack Software Development with a strong focus on web technologies and user-centric experiences proficiently using tools like TypeScript, React, Next.js, and Go to build innovative solutions.
 
-Combining my Graphic Design background with extensive Sound Engineering experience, I bring a distinctive blend of technical and creative skills to my development projects. My passion for versatility drives me to actively explore diverse technologies and languages, fostering continuous growth in my developer journey. By leveraging technology, I enhance user experiences and apply well-honed project management, teamwork, and client communication skills to my development initiatives.
+Combining my Graphic Design background with an extensive Sound Engineering experience, I bring a distinctive blend of creative and technical skills to my projects. By leveraging technology, I enhance user experiences and apply well-honed project management, teamwork, and client communication skills to my initiatives. My passion for versatility drives me to actively study and explore diverse technologies and languages, fostering continuous growth in my software engineering journey.
 
-Currently, I’m immersing myself in the world of Rust, embracing new challenges as I actively seek to expand my horizons.
-
-If you’re seeking an inventive developer with a fresh perspective for your projects, look no further. Let’s connect and collaboratively forge impactful ventures within the industry. I look forward to connecting and discovering how I can actively drive your projects forward!
+If you're seeking an inventive software engineer with a fresh perspective for your projects, look no further. Let's connect and collaboratively forge impactful ventures within the industry.
 
 ## Socials
 
@@ -113,7 +111,3 @@ If you’re seeking an inventive developer with a fresh perspective for your pro
 ## Github Stats
 
 <a href="http://www.github.com/ynncstslv"><img src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ynncstslv's GitHub stats" /></a>
-
-<!-- ## Top Repositories
-
-<div width="100%" align="center"><a href="https://github.com/ynncstslv/chattr" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ynncstslv&repo=chattr&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ynncstslv/devjobs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ynncstslv&repo=devjobs&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
