@@ -3,7 +3,7 @@
 - 🌍 I'm based in São Paulo, Brazil
 - 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/)
 - ✉️ You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
-- 🚀 Currently working on [GoHire](http://github.com/vrtttx/gohire/)
+- 🚀 Currently working on [Threadr](http://github.com/vrtttx/threadr/)
 - 🤝 Open to collaborating on anything!
 - ⚡ I play a bunch of instruments and love the game Magic: The Gathering
 
