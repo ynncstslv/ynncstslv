@@ -1,36 +1,26 @@
 # Hello!
 
-- 🌍 I'm based in São Paulo, Brazil
-- 🖥️ See my portfolio at [https://ynncstslv.com/](http://ynncstslv.com/)
-- ✉️ You can contact me at [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
-- 🚀 Currently working on [GoCoffee](https://github.com/vrtttx/gocoffee)
-- 🤝 Open to collaborating on anything!
-- ⚡ I play a bunch of instruments and love the game Magic: The Gathering
+- 🌍 Based in São Paulo, Brazil
+- 🖥️ Portfolio: [https://ynncstslv.com/](http://ynncstslv.com/)
+- ✉️ Contact Me: [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
+- 🚀 Currently working on [TalkPDF]()
+- 🤝 I'm open to collaborating on anything!
 
 ## About Me
 
-A skilled Computer Science undergraduate specializing in Full-Stack Software Development with a strong focus on web technologies and user-centric experiences proficiently using tools like TypeScript, React, Next.js, and Go to build innovative solutions.
+As a Full-Stack Software Engineer I specialize in web technologies and user-centric experiences, using tools like TypeScript, React, Next.js, and Go to build innovative solutions.
 
-Combining my Graphic Design background with an extensive Sound Engineering experience, I bring a distinctive blend of creative and technical skills to my projects. By leveraging technology, I enhance user experiences and apply well-honed project management, teamwork, and client communication skills to my initiatives. My passion for versatility drives me to actively study and explore diverse technologies and languages, fostering continuous growth in my software engineering journey.
+With a background in Graphic Design and Sound Engineering, I bring a distinctive blend of creative and technical skills to my projects. I also have multiple certifications from Meta, Google, University of Michigan, and Coderhouse, demonstrating my proficiency and passion for web development. I enjoy learning and exploring diverse technologies and languages, fostering continuous growth in my software engineering journey. I am always open to new opportunities and challenges that allow me to collaborate and create impactful ventures within the industry.
 
-If you're seeking an inventive software engineer with a fresh perspective for your projects, look no further. Let's connect and collaboratively forge impactful ventures within the industry.
+## Projects
 
-## Socials
-
-<p align="left">
-<!-- github -->
-<a href="https://github.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="22"></a>
-<!-- linkedin -->
-<a href="https://linkedin.com/in/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="22"></a>
-<!-- instagram -->
-<a href="https://instagram.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" height="22"></a>
-<!-- twitter -->
-<a href="https://twitter.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" height="22"></a>
-<!-- discord -->
-<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="22"></a> -->
-<!-- dev.to -->
-<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" height="22"></a> -->
-</p>
+- [Divera](https://divera.vercel.app/): An AI-powered SAAS app offering custom AI services - conversation, music, images, videos, and code.
+- [Chattr](https://chattr-gold.vercel.app/): An intuitive, seamless and instant messaging application that keeps you connected with ease.
+- [DevJobs](https://devjobs-bice.vercel.app/): A developer job platform where users can apply for opportunities based on their preferred language, location and technology.
+- [GoCoffee](https://github.com/vrtttx/gocoffee): A robust API for managing coffee information. Built using Go, Go-Chi, PostgreSQL, and Docker.
+- [GoEater](https://github.com/vrtttx/goeater): A robust restaurant management system built with Go, Go-Gin, and MongoDB.
+- [GoHire](https://github.com/vrtttx/gohire): A cutting-edge job opportunities API built using Golang, Go-Gin, GoORM, and SQLite.
+- [GoKan](https://github.com/vrtttx/gokan): A Go-based CLI Kanban board built upon the Go ecosystem, with libraries like Cobra, Bubbletea, and Lipgloss.
 
 ## Technical Skills
 
@@ -114,6 +104,23 @@ If you're seeking an inventive software engineer with a fresh perspective for yo
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="36" /></a>
 </p>
 
-## Github Stats
+## Socials
 
-<a href="http://www.github.com/ynncstslv"><img src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ynncstslv's GitHub stats" /></a>
+<p align="left">
+<!-- github -->
+<a href="https://github.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" height="22"></a>
+<!-- linkedin -->
+<a href="https://linkedin.com/in/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="22"></a>
+<!-- instagram -->
+<a href="https://instagram.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" height="22"></a>
+<!-- twitter -->
+<a href="https://twitter.com/ynncstslv" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" height="22"></a>
+<!-- discord -->
+<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="22"></a> -->
+<!-- dev.to -->
+<!-- <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" height="22"></a> -->
+</p>
+
+<!-- ## Github Stats
+
+<a href="http://www.github.com/ynncstslv"><img src="https://github-readme-stats.vercel.app/api?username=ynncstslv&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="ynncstslv's GitHub stats" /></a> -->
