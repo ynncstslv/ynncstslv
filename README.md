@@ -3,7 +3,7 @@
 - 🌍 Based in São Paulo, Brazil
 - 🖥️ Portfolio: [https://ynncstslv.com/](http://ynncstslv.com/)
 - ✉️ Contact Me: [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
-- 🚀 Currently working on [TalkPDF]()
+- 🚀 Currently working on [Gathr](https://github.com/ynncstslv/gathr)
 - 🤝 I'm open to collaborating on anything!
 
 ## About Me
