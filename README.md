@@ -1,26 +1,15 @@
 # Hello!
 
-- 🌍 Based in São Paulo, Brazil
-- 🖥️ Portfolio: [https://ynncstslv.com/](http://ynncstslv.com/)
+- 🌍 Based in Maceió, Alagoas - Brazil;
 - ✉️ Contact Me: [ynncstslv@gmail.com](mailto:ynncstslv@gmail.com)
-- 🚀 Currently working on [Gathr](https://github.com/ynncstslv/gathr)
+- 🚀 Currently working @ Wipro for HP Inc.
 - 🤝 I'm open to collaborating on anything!
 
 ## About Me
 
-As a Full-Stack Software Engineer I specialize in web technologies and user-centric experiences, using tools like TypeScript, React, Next.js, and Go to build innovative solutions.
+With over five years of experience as a Full-Stack Developer, working with a wide range of technologies and frameworks, such as React, Next.js, TypeScript/JavaScript, Go, and Java. I currently work at Wipro, a leading global IT consulting and business process services company, where I develop back-end solutions for HP Inc. projects.
 
-With a background in Graphic Design and Sound Engineering, I bring a distinctive blend of creative and technical skills to my projects. I also have multiple certifications from Meta, Google, University of Michigan, and Coderhouse, demonstrating my proficiency and passion for web development. I enjoy learning and exploring diverse technologies and languages, fostering continuous growth in my software engineering journey. I am always open to new opportunities and challenges that allow me to collaborate and create impactful ventures within the industry.
-
-## Projects
-
-- [Divera](https://divera.vercel.app/): An AI-powered SAAS app offering custom AI services - conversation, music, images, videos, and code.
-- [Chattr](https://chattr-gold.vercel.app/): An intuitive, seamless and instant messaging application that keeps you connected with ease.
-- [DevJobs](https://devjobs-bice.vercel.app/): A developer job platform where users can apply for opportunities based on their preferred language, location and technology.
-- [GoCoffee](https://github.com/vrtttx/gocoffee): A robust API for managing coffee information. Built using Go, Go-Chi, PostgreSQL, and Docker.
-- [GoEater](https://github.com/vrtttx/goeater): A robust restaurant management system built with Go, Go-Gin, and MongoDB.
-- [GoHire](https://github.com/vrtttx/gohire): A cutting-edge job opportunities API built using Golang, Go-Gin, GoORM, and SQLite.
-- [GoKan](https://github.com/vrtttx/gokan): A Go-based CLI Kanban board built upon the Go ecosystem, with libraries like Cobra, Bubbletea, and Lipgloss.
+As a software engineer with a solid background in graphic design and sound engineering, I balance creativity with technical excellence, and I'm always eager to learn new skills and tools. I hold multiple certifications from reputable organizations, such as Google, Meta, University of Michigan, and Coderhouse, that demonstrate my proficiency and passion for web development.
 
 ## Technical Skills
 
