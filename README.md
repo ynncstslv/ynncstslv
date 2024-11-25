@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Yann!</h1>
 <h3 align="center">A full-stack developer from Brazil with a passion for open-source and cybersecurity.</h3>
 
-- 🌱 I’m currently learning **Pentesting, Malware Analysis, and Go for Cybersecurity**;
+- 🌱 I’m currently learning **Malware Analysis, and Go for Cybersecurity**;
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://ynncstslv.dev/);
+- 👨‍💻 I'm currently updating all of my projects. Soon they will be available at [my portfolio](https://ynncstslv.dev/);
 
-- 📝 I'm starting to write articles on [dev.to](https://dev.to/ynncstslv/);
-
-- 📫 You can reach me on **me@ynncstslv.dev**
+- 📫 You can reach me on **ynncstslv@gmail.com**
 
 - ⚡ Fun fact: **I've been playing music and magic the gathering for over 20 years now.**
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">About me</h3>
 
-<p align="left">As a full-stack developer currently working on backend systems for HP Inc. projects, I focus on creating clean, efficient, and impactful code that solves real-worl problems. I thrive on building meaningful and scalable solutions, with a passion for development using Go for the backend and frontend technologies like React, Next.js, and TypeScript. Beyond code, I have a creative background in graphic design and sound engineering, which helps me approach development with a unique perspective - balancing the technical with the creative. I'm constantly adapting, and my curiosity and drive for continuous learning have led me to explore cybersecurity, with a particular interest in pentesting, and malware analysis. I actively participate in CTFs and bug bounty programs, and am deepening my knowledge in both fields of study, always looking for new challenges to expand my expertise. At the core, I'm driven by the challenge of building solutions that are not only functional but deliver a seamless experience for users.</p>
+<p align="left">As a full-stack developer, I focus on creating clean, efficient, and impactful code that solves real-worl problems. I thrive on building meaningful and scalable solutions, with a passion for development using Go for the backend and frontend technologies like React, Next.js, and TypeScript. Beyond code, I have a creative background in graphic design and sound engineering, which helps me approach development with a unique perspective - balancing the technical with the creative. I'm constantly adapting, and my curiosity and drive for continuous learning have led me to explore cybersecurity, with a particular interest in pentesting, and malware analysis. I actively participate in CTFs and bug bounty programs, and am deepening my knowledge in both fields of study, always looking for new challenges to expand my expertise. At the core, I'm driven by the challenge of building solutions that are not only functional but deliver a seamless experience for users.</p>
 
 ---
 
@@ -140,7 +138,5 @@
 <div align="left">
   <a href="ynncstslv@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
   <a href="https://linkedin.com/in/ynncstslv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://dev.to/ynncstslv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  /></a>
   <a href="https://instagran.com/ynncstslv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-  <a href="https://tryhackme.com/ynncstslv" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  /></a>
 </div>
